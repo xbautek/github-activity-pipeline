@@ -6,3 +6,5 @@ __pycache__/
 .env
 
 scripts/pipeline_tasks.md
+
+scripts/pipeline_tasks.md
